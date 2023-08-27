@@ -85,7 +85,6 @@ function App() {
               <option value="3">3rd Down</option>
               <option value="4">4th Down</option>
             </select>
-            
           )}
           {currentStep !== 0 && (
             <input
